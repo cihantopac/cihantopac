@@ -1,47 +1,78 @@
-# Cihan Topaç
-**Visiosoft Teknoloji A.Ş. | Satış Yöneticisi & Frontend Geliştirici**
-
-Kurumsal ürünleri **kullanıcı deneyimi odaklı** web ve mobil arayüzlere dönüştürüyorum.  
-Satış perspektifi ile teknik üretimi birleştirip, **saha operasyonlarına** değer katan dijital ürünler geliştiriyorum.
-
----
-
-## Hızlı Bağlantılar
-- Web: https://visiosoft.com.tr
-- Web: https://www.toger.co
-- LinkedIn: https://www.linkedin.com/in/cihan-topac/
-
----
-
-## Öne Çıkanlar (Public)
-
-| Proje | Açıklama | Teknoloji |
-| --- | --- | --- |
-| [parking-product-3d](https://github.com/cihantopac/parking-product-3d) | Otopark donanımları için 3D ürün kataloğu ve kurumsal sunum sayfaları | HTML, CSS |
-| [parking-dashboard](https://github.com/cihantopac/parking-dashboard) | Otopark operasyonları için yönetim paneli arayüzü | Frontend |
+﻿<div align="center">
+  <h1>Cihan Topaç</h1>
+  <p>Satış + Frontend | UI/UX odaklı web ve mobil arayüzler</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Kodlama animasyonu" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=cihantopac&style=flat-square&color=0e75b6" alt="Profile views" />
+    <a href="https://www.linkedin.com/in/cihan-topac/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://visiosoft.com.tr">
+      <img src="https://img.shields.io/badge/Visiosoft-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Visiosoft" />
+    </a>
+    <a href="https://www.toger.co">
+      <img src="https://img.shields.io/badge/Toger-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Toger" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## Kurumsal Projeler (Özet)
-- **Toger-Kiosk**: Self-servis otopark ödeme kiosk arayüzleri  
-- **Toger-Monitoring**: Gerçek zamanlı otopark izleme ve yönetim arayüzleri  
-- **Monitoring UI Entegrasyonları**: API tabanlı izleme sistemlerine arayüz adaptasyonu
+## Canlı İstatistikler
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cihantopac&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub istatistikleri" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=cihantopac&theme=github-dark&hide_border=true" alt="Seri istatistikleri" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantopac&layout=compact&theme=github_dark&hide_border=true" alt="En çok kullanılan diller" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cihantopac&theme=github_dark&utcOffset=3" alt="Üretkenlik kartı" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=cihantopac&theme=flat&no-frame=true&column=4" alt="GitHub trophy" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cihantopac&theme=github-dark&hide_border=true" alt="Aktivite grafiği" />
 
 ---
 
-## Çalışma Alanları
-- UI/UX odaklı web arayüzleri
-- Gerçek zamanlı monitoring ekranları
-- Mobil uygulama arayüz tasarımı
-- Kurumsal ürün ve donanım sunum sayfaları
+## Diller ve Araçlar
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,figma,git&perline=8" alt="Yetenek ikonları" />
+</div>
 
 ---
 
-## Kısa Profil
-- İstanbul, Türkiye  
-- Satış + teknoloji köprüsü  
-- Saha kullanıcılarını merkeze alan ürün geliştirme yaklaşımı  
+## Öne Çıkan Projeler
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/cihantopac/parking-product-3d">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cihantopac&repo=parking-product-3d&theme=github_dark&hide_border=true" alt="parking-product-3d" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/cihantopac/parking-dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cihantopac&repo=parking-dashboard&theme=github_dark&hide_border=true" alt="parking-dashboard" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-İletişim ve iş birliği için LinkedIn üzerinden ulaşabilirsiniz.
+## Kısa Not
+- İstanbul, Türkiye
+- Kurumsal ürün ve saha odaklı arayüzler
+- Satış + teknik üretim köprüsü
