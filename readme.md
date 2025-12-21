@@ -22,10 +22,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cihantopac&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub istatistikleri" />
+      <img src="https://github-readme-stats.vercel.app/api?username=cihantopac&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub istatistikleri" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=cihantopac&theme=github-dark&hide_border=true" alt="Seri istatistikleri" />
+      <img src="https://streak-stats.demolab.com?user=cihantopac&theme=github-dark&hide_border=true&cache_seconds=21600" alt="Seri istatistikleri" />
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=cihantopac&theme=flat&no-frame=true&column=4" alt="GitHub trophy" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cihantopac&theme=github_dark" alt="Profil detaylar?" />
     </td>
   </tr>
 </table>
