@@ -41,10 +41,6 @@
   <img src="https://img.shields.io/badge/React%20Native-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native uygulamaları" />
 </p>
 
-<p align="center">
-  Projelerimin büyük bölümü private repo olarak geliştiriliyor; bu profil daha çok genel üretim ritmimi ve kullandığım teknolojileri yansıtıyor.
-</p>
-
 ## GitHub Görünümü
 
 <p align="center">
