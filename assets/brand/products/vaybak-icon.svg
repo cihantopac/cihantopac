@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>vaybak! app icon, foreground</title>
+  <!-- Adaptive-icon foreground: transparent, artwork inside the centre 62% safe zone.
+       Background colour: #44619A (prod). Dev flavor uses #C2410C. -->
+  <defs>
+    <g id="mark">
+      <!-- v -->
+      <path d="M-30 -140 L90 150 L210 -140" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="124"/>
+    </g>
+  </defs>
+  <g transform="translate(512 512) scale(1.18) translate(-160 -15)">
+    <!-- shadow -->
+    <g transform="translate(10 16)" opacity="0.38" fill="#1B2B52" stroke="#1B2B52">
+      <use href="#mark"/>
+      <g stroke="none">
+        <rect x="300" y="-190" width="112" height="262" rx="56"/>
+        <circle cx="356" cy="170" r="62"/>
+      </g>
+    </g>
+    <!-- v in white -->
+    <g stroke="#FFFFFF" fill="none"><use href="#mark"/></g>
+    <!-- ! in sunny yellow -->
+    <rect x="300" y="-190" width="112" height="262" rx="56" fill="#FFC247"/>
+    <circle cx="356" cy="170" r="62" fill="#FFC247"/>
+  </g>
+</svg>

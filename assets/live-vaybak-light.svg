@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290" role="img" aria-label="vaybak.app — Çocuklar ve gençler için ebeveyn kontrollü, güvenli keşif uygulaması." fill="none"><style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.ink{fill:#0f1419} .muted{fill:#57606a} .faint{fill:#8c959f}
+.pulse{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style><rect x=".5" y=".5" width="599" height="289" rx="18" fill="#f6f8fa" stroke="#e1e5ea"/><svg x="26" y="36" width="125.9" height="40.0" viewBox="-24 -44 850 270" preserveAspectRatio="xMinYMid meet">
+  
+  
+  <defs>
+    <g id="e29-word" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="30">
+      
+      <path d="M0 42 L40 136 L80 42"/>
+      
+      <g transform="translate(118 0)">
+        <circle cx="48" cy="90" r="48"/>
+        <path d="M96 42 V138"/>
+      </g>
+      
+      <g transform="translate(257 0)">
+        <path d="M0 42 L40 136 L80 42"/>
+        <path d="M40 136 L18 192"/>
+      </g>
+      
+      <g transform="translate(378 0)">
+        <path d="M0 -14 V138"/>
+        <circle cx="52" cy="90" r="48"/>
+      </g>
+      
+      <g transform="translate(528 0)">
+        <circle cx="48" cy="90" r="48"/>
+        <path d="M96 42 V138"/>
+      </g>
+      
+      <g transform="translate(668 0)">
+        <path d="M0 -14 V138"/>
+        <path d="M66 42 L2 104"/>
+        <path d="M28 80 L70 138"/>
+      </g>
+    </g>
+  </defs>
+  
+  <use href="#e29-word" x="5" y="7" stroke="#C9D2E6"/>
+  <use href="#e29-word" stroke="#2A2A33"/>
+  
+  <g transform="translate(782 0)">
+    <g transform="translate(5 7)" fill="#C9D2E6">
+      <rect x="-16" y="-30" width="32" height="130" rx="16"/>
+      <circle cx="0" cy="134" r="18"/>
+    </g>
+    <g fill="#44619A">
+      <rect x="-16" y="-30" width="32" height="130" rx="16"/>
+      <circle cx="0" cy="134" r="18"/>
+    </g>
+  </g>
+</svg><rect x="392.0" y="40" width="182.0" height="28" rx="14" fill="#ffffff" stroke="#e1e5ea"/><circle cx="406.0" cy="54" r="4" fill="#c96a06" class="pulse"/><text x="416.0" y="58.5" class="mono" fill="#c96a06" font-size="12">mağaza incelemesinde</text><text x="30" y="126" class="mono ink" font-size="15" font-weight="600">vaybak.app <tspan class="faint">↗</tspan></text><text x="30" y="166" class="sans muted" font-size="16">Çocuklar ve gençler için ebeveyn</text><text x="30" y="190" class="sans muted" font-size="16">kontrollü, güvenli keşif uygulaması.</text><line x1="30" y1="222" x2="570" y2="222" stroke="#e1e5ea" stroke-dasharray="3 4"/><text x="30" y="254" class="mono faint" font-size="12.5">Android · iOS · web</text></svg>

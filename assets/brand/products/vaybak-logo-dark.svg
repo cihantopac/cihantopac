@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-24 -44 850 270" width="850" height="270" role="img" aria-label="vaybak!">
+  <title>vaybak!</title>
+  <!-- Original wordmark, drawn from round-capped strokes (no font, no third-party shapes). -->
+  <defs>
+    <g id="word" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="30">
+      <!-- v -->
+      <path d="M0 42 L40 136 L80 42"/>
+      <!-- a -->
+      <g transform="translate(118 0)">
+        <circle cx="48" cy="90" r="48"/>
+        <path d="M96 42 V138"/>
+      </g>
+      <!-- y -->
+      <g transform="translate(257 0)">
+        <path d="M0 42 L40 136 L80 42"/>
+        <path d="M40 136 L18 192"/>
+      </g>
+      <!-- b -->
+      <g transform="translate(378 0)">
+        <path d="M0 -14 V138"/>
+        <circle cx="52" cy="90" r="48"/>
+      </g>
+      <!-- a -->
+      <g transform="translate(528 0)">
+        <circle cx="48" cy="90" r="48"/>
+        <path d="M96 42 V138"/>
+      </g>
+      <!-- k -->
+      <g transform="translate(668 0)">
+        <path d="M0 -14 V138"/>
+        <path d="M66 42 L2 104"/>
+        <path d="M28 80 L70 138"/>
+      </g>
+    </g>
+  </defs>
+  <!-- depth: the same strokes, nudged down-right in a pale tint -->
+  <use href="#word" x="5" y="7" stroke="#1B2438"/>
+  <use href="#word" stroke="#F4F6FB"/>
+  <!-- ! in the brand blue -->
+  <g transform="translate(782 0)">
+    <g transform="translate(5 7)" fill="#1B2438">
+      <rect x="-16" y="-30" width="32" height="130" rx="16"/>
+      <circle cx="0" cy="134" r="18"/>
+    </g>
+    <g fill="#9DB4EA">
+      <rect x="-16" y="-30" width="32" height="130" rx="16"/>
+      <circle cx="0" cy="134" r="18"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="KURUMSAL WEB" fill="none"><style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.ink{fill:#e6edf3} .muted{fill:#9198a1} .faint{fill:#6e7681}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style><rect x="2" y="23" width="10" height="10" rx="2" fill="#f0a43a"/><text x="24" y="33" class="mono ink" font-size="14" font-weight="600" letter-spacing="2.4">KURUMSAL WEB</text><line x1="167.60000000000002" y1="28" x2="958.4000000000001" y2="28" stroke="#262e38" stroke-width="1.5"/><text x="1198" y="33" text-anchor="end" class="mono faint" font-size="13">Next.js ile kurumsal siteler</text></svg>
